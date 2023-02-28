@@ -14,18 +14,16 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### Screenshot
 
-![](images\qr-code-finished-page.png)
+![Image of the QR code webpage](images/qr-code-finished-page.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://github.com/lauyc-c/qr-code)
+- Live Site URL: [Add live site URL here](https://lauyc-c.github.io/qr-code-component/)
 
 ## My process
 
@@ -38,7 +36,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-Throughout this project, techniques for applying styles to elements were used, particularly the use of element sizing and flexbox. Some of the notable code include:
+Throughout this project, element sizing and flexbox were used to style the webpage. Some of the notable code include:
 
 ```css
 body {
@@ -74,4 +72,4 @@ Currently, the QR code is not displayed in full when the window is shrunk to a c
 ## Author
 
 - Website - [Cappi Lau](https://github.com/lauyc-c)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/lauyc-c)
