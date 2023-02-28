@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/lauyc-c/qr-code)
-- Live Site URL: [Add live site URL here](https://lauyc-c.github.io/qr-code-component/)
+- Solution URL: [](https://github.com/lauyc-c/qr-code)
+- Live Site URL: [](https://lauyc-c.github.io/qr-code-component/)
 
 ## My process
 
@@ -72,4 +72,4 @@ Currently, the QR code is not displayed in full when the window is shrunk to a c
 ## Author
 
 - Website - [Cappi Lau](https://github.com/lauyc-c)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/lauyc-c)
+- Frontend Mentor - [@lauyc-c](https://www.frontendmentor.io/profile/lauyc-c)
