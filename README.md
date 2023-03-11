@@ -18,7 +18,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![Image of the QR code webpage](images/qr-code-finished-page.png)
+![Image of the QR code webpage](images/qr-code-finished-page-updated.png)
 
 ### Links
 
